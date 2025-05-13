@@ -1,12 +1,12 @@
 ---
 date: 2025/05/12
 source: Grok.ai
-tags: 
+tags:
   - Gary-Brecka
   - breathwork
   - Wim-Hof
-  - Sleep
-  - Stress
+  - sleep
+  - stress
 ---
 
 [[Gary Brecka]], a human biologist and biohacker, strongly advocates for breathwork as a key component of health optimization, emphasizing its ability to reduce stress, improve energy, enhance mental clarity, and support overall physiological function. His recommendations often draw inspiration from the Wim Hof Method but are tailored for accessibility, especially for beginners. Below is a summary of the breathing protocols Brecka recommends, based on available information:
