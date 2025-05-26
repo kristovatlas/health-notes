@@ -11,6 +11,17 @@
 * [Earthing Harmony](https://earthingharmony.com/): Shoes and sandals grounding made from leather
 * [Wayve](https://t.co/opMIzE2UgF): Organic activewear
 * [Maro](https://wearmaro.com/): Organic clothing including toe socks
+* [Lezat](https://www.lezat.com/): Organic cotton clothing for women, including activewear
+* [Namarie](https://namarie.com/): Men's and women's activewear non-plastic
+* [Earth Runners](https://www.earthrunners.com/): Barefoot grounded sandals, including cotton canvas options
+* [Nads](https://nadsunder.com/): Organic cotton men's underwear
+* [merino.tech](https://merino.tech/): Activewear for men, women, and children using Merino wool. I verified with customer support May 2025 that they do not use [[Superwashing]] despite recommending machine washing
+* [Mate](https://matethelabel.com/): Organic cotton clothing for men, women, and kids
+* [Quince](https://www.quince.com/): Organic clothing for men, women, and kids
+
+## Aggregators
+
+* [no plastic, no problem](https://www.noplasticnoproblem.com/product-search?category=Clothing): Lists non-plastic clothing from a variety of producers 
 
 ## Brick and Mortar
 

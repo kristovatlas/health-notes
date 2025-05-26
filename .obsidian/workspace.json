@@ -11,14 +11,14 @@
             "id": "061cbb8e8aea2eb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Clothing/Natural Fabric Brands.md",
-                "mode": "preview",
-                "source": true
+                "aFile": "Toxins/Azo Dyes.md",
+                "bFile": "Toxins/Azo Dyes.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Natural Fabric Brands"
+              "icon": "diff",
+              "title": "Diff: Azo Dyes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Sleep",
+                "query": "tag:#cotton",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +181,21 @@
   },
   "active": "061cbb8e8aea2eb6",
   "lastOpenFiles": [
-    "Clothing/Gap and Old Navy.md",
+    "Breath work/Gary Brecka Breathing Recommendations.md",
+    "Pasted image 20250522111703.png",
+    "Links to Process.md",
     "Clothing/Natural Fabric Brands.md",
+    "Clothing/Mis-leading Marketing.md",
+    "Clothing/Gap and Old Navy.md",
+    "Toxins/Formaldehyde.md",
+    "Toxins/Azo Dyes.md",
+    "Sleep Optimization/Gary Brecka 10-3-2-1-0 Rule.md",
+    "Toxins/Phthalates.md",
+    "Toxins",
+    "Influencers/Mamavation.md",
+    "Clothing/Natural Fibers.md",
     "Influencers/Andrew Huberman.md",
     "Influencers/Wim Hof.md",
-    "Breath work/Gary Brecka Breathing Recommendations.md",
     "Influencers/Rhonda Patrick.md",
     "Heat exposure/Heat doesn't matter?.md",
     "Food/Grass-fed cows with hydroponic grass.md",
@@ -193,14 +203,11 @@
     "Influencers/Gary Brecka.md",
     "Influencers/Bryan Johnson.md",
     "README.md",
-    "Clothing/Materials.md",
     "Clothing",
-    "Links to Process.md",
     "Routines/Bryan Johnson Morning Routine May 2025.md",
     "Routines/Morning Routines",
     "Routines",
     "Routines.md",
-    "Sleep Optimization/Gary Brecka 10-3-2-1-0 Rule.md",
     "Fat loss methods/30-30-30 Method.md",
     "Sleep Optimization",
     "Breath work",
