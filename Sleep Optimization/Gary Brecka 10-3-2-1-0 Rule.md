@@ -1,6 +1,11 @@
 ---
 Date: 2025/05/12
 Source: Grok.ai
+tags:
+  - sleep
+  - caffeine
+  - blue-light
+  - breathwork
 ---
 
 [[Gary Brecka]]'s 10-3-2-1-0 sleep rule is a structured pre-bedtime routine designed to optimize sleep quality by aligning with the body's natural rhythms and minimizing disruptions. Here’s a summary:

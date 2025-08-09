@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1429064fdd9e0ce2",
+        "id": "c76073a2f885d191",
         "type": "tabs",
         "children": [
           {
-            "id": "061cbb8e8aea2eb6",
+            "id": "66ac5016a573fa64",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Toxins/Azo Dyes.md",
-                "bFile": "Toxins/Azo Dyes.md",
-                "aRef": ""
+                "file": "Clothing/Viscose.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "diff",
-              "title": "Diff: Azo Dyes"
+              "icon": "lucide-file",
+              "title": "Viscose"
             }
           }
         ]
@@ -179,41 +179,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061cbb8e8aea2eb6",
+  "active": "66ac5016a573fa64",
   "lastOpenFiles": [
+    "Food/Plastic wrapped baling leads to cow plastic exposure.md",
+    "Clothing/Viscose.md",
+    "Clothing/Natural Fibers.md",
+    "Non-Toxic Household Items/Non-Toxic Play Mats.md",
+    "Links to Process.md",
+    "Non-Toxic Household Items",
+    "Red Light Therapy/Dr. Rahul Desai - Unlocking Red Light Therapy for Recovery and Performance.md",
+    "Red Light Therapy/Do You Have To Wear Goggles With Red Light Therapy?.md",
+    "Clothing/Natural Fabric Brands.md",
+    "Sleep Optimization/Gary Brecka 10-3-2-1-0 Rule.md",
+    "Red Light Therapy/What Time Of Day Is Best For Red Light Therapy.md",
+    "Red Light Therapy/How Red Light Therapy Improves Your Sleep.md",
+    "Red Light Therapy/Faster Muscle Recovery With Red Light Therapy.md",
+    "Red Light Therapy/Best Time Of The Day To Do Red Light Therapy.md",
+    "Influencers/Mychondria.md",
+    "Red Light Therapy/Checklist for Red Light Therapy Devices.md",
+    "Red Light Therapy",
     "Breath work/Gary Brecka Breathing Recommendations.md",
     "Pasted image 20250522111703.png",
-    "Links to Process.md",
-    "Clothing/Natural Fabric Brands.md",
     "Clothing/Mis-leading Marketing.md",
     "Clothing/Gap and Old Navy.md",
     "Toxins/Formaldehyde.md",
     "Toxins/Azo Dyes.md",
-    "Sleep Optimization/Gary Brecka 10-3-2-1-0 Rule.md",
     "Toxins/Phthalates.md",
     "Toxins",
     "Influencers/Mamavation.md",
-    "Clothing/Natural Fibers.md",
     "Influencers/Andrew Huberman.md",
     "Influencers/Wim Hof.md",
     "Influencers/Rhonda Patrick.md",
     "Heat exposure/Heat doesn't matter?.md",
-    "Food/Grass-fed cows with hydroponic grass.md",
-    "Food/Plastic wrapped baling leads to cow plastic exposure.md",
-    "Influencers/Gary Brecka.md",
-    "Influencers/Bryan Johnson.md",
-    "README.md",
     "Clothing",
-    "Routines/Bryan Johnson Morning Routine May 2025.md",
     "Routines/Morning Routines",
     "Routines",
-    "Routines.md",
-    "Fat loss methods/30-30-30 Method.md",
     "Sleep Optimization",
     "Breath work",
     "Fat loss methods",
-    "Influencers",
-    "Food",
-    "Heat exposure"
+    "Influencers"
   ]
 }

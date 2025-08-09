@@ -18,6 +18,11 @@
 * [merino.tech](https://merino.tech/): Activewear for men, women, and children using Merino wool. I verified with customer support May 2025 that they do not use [[Superwashing]] despite recommending machine washing
 * [Mate](https://matethelabel.com/): Organic cotton clothing for men, women, and kids
 * [Quince](https://www.quince.com/): Organic clothing for men, women, and kids
+* [Happy Earth Apparel](https://www.happyearthapparel.com/): Organic clothing for women and men, including activewear
+* [Make Make Organics](https://makemakeorganics.com/): [[GOTS]]-certified organic clothes for kids and babies
+* [Gustin](https://www.weargustin.com/store): Crowd-funded cotton clothes for men
+* [Allwear](https://allwear.com/): Activewear for men and women using natural fabrics
+* [Wooly](https://www.woolly.clothing/): Merino wool activewear for men and women
 
 ## Aggregators
 
